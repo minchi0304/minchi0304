@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minchi0304
+- 👋 Hi, I’m min chi hyeok
 - 👀 I’m interested in computer vision
 - 🌱 I’m currently learning pytorch
 - 💞️ I’m looking to collaborate on 
